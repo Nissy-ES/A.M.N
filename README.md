@@ -2,10 +2,10 @@
 Automated Proximity Etiquette Enforcement Device 
 
 Basic Details
-Team Name:The Unplanned
-Team Members
-Member 1: Nissy Elsa Sunil - CEC
-Member 2: Athira Anilkumar  - CEC
+● Team Name:The Unplanned
+● Team Members
+* Member 1: Nissy Elsa Sunil - CEC
+* Member 2: Athira Anilkumar  - CEC
 Project Description
 [2-3 lines about what your project does]
 
